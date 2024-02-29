@@ -2,6 +2,8 @@
 
 I am a Fullstack developer, and frontend trainer.
 
+<p><a href="https://www.thaislaboure.dev">My Portfolio</a></p>
+
 <i>This is just a preview, I will update this page soon</i>
 
 
