@@ -4,6 +4,8 @@ I am a Fullstack developer, and frontend trainer.
 
 <p><a href="https://www.thaislaboure.dev">My Portfolio</a></p>
 
+<p><a href="https://www.beecode.fr/">My Tech Blog, Tutorial  & Forum for woman in tech !</p>
+
 <i>This is just a preview, I will update this page soon</i>
 
 
