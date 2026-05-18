@@ -43,7 +43,7 @@ const thais: Developer = {
 
 | Projet | Stack | Statut |
 |--------|-------|--------|
-| **[Altrna](https://github.com/thaislaboure/altrna)** — réseau social associatif | React Native · Supabase · Expo | 🟢 MVP Live sur Play Store |
+| **[Altrna](https://altrna.fr)** — réseau social associatif | React Native · Supabase · Expo | 🟢 MVP Live sur Play Store |
 | **[Beecode.fr](https://beecode.fr)** — blog tech inclusif | Vue.js · Nuxt · Markdown | 🟢 En ligne |
 | **[Abra.JS](https://npmjs.com/package/abra-js)** — lib HTTP basée sur Fetch | TypeScript · npm | 🟢 Publiée |
 | **BeeQuiz** — Plateforme de quiz | Angular · Springboot  | 🟠 En cours de développement |
