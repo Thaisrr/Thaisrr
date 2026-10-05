@@ -26,7 +26,7 @@ const thais: Developer = {
   currentlyDoing: [
     "Construire Altrna — réseau social pour associations",
     "Enseigner Vue.js, React & algo à des humains formidables",
-    "Apprendre l'arabe égyptien par transcription phonétique",
+    "Apprendre l'arabe égyptien",
   ],
 
   funFacts: [
